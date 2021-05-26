@@ -1,0 +1,24 @@
+[
+  {
+    "Title": "Yahoo.com - ",
+    "About": "A major internet portal and service provider offering search results, customizable content, chatrooms, free e-mail, clubs, and pager.\n",
+    "What_technologies": "Apache Traffic Server",
+    "Profile": " yahoo, yahoo home page, yahoo homepage, yahoo search, yahoo mail, yahoo messenger, yahoo games, news, finance, sport, entertainment",
+    "Daily_Visitors": "258,969,023",
+    "Monthly_Visits": "8,157,524,225",
+    "Pages_per_Visitor": "4.90",
+    "Daily_Pageviews": "1,268,948,211",
+    "Direct": "66.61%",
+    "Referral": "17.67%",
+    "Search": "12.88%",
+    "Social": "2.77%",
+    "countries": {
+      "united states": {"rank": "4", "pageviews": "41.9%", "Users": "33.0"},
+      "india": {"rank": "8", "pageviews": "6.2%", "Users": "6.4"}
+    },
+    "subdomains": {
+      "search.yahoo.com": {"peruser": "2.75", "pageviews": "20.9%", "Reach": "38.0", },
+      "mail.yahoo.com": {"peruser": "8", "pageviews": "6.2%", "Reach": "6.4", }
+    }
+  }
+]
